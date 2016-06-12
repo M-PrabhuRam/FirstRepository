@@ -7,7 +7,7 @@ public class PushToGit {
 		System.out.println("Second Line");
 System.out.println("Third Line");
 System.out.println("");
-System.out.println("-----------");
+System.out.println("----------");
 
 int i =2;
 
