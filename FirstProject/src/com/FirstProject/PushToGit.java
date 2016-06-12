@@ -9,11 +9,11 @@ System.out.println("Third Line");
 System.out.println("");
 System.out.println("-----------");
 
-int i =0;
+int i =2;
 
 i = i*2;
 
-System.out.println("i");
+System.out.println(+i);
 	}
 
 }
